@@ -2,7 +2,7 @@
 
 ## Description
 
-*data source:* [https://github.com/openfootball/football.json](https://github.com/openfootball/football.json)
+*data source: [https://github.com/openfootball/football.json](https://github.com/openfootball/football.json)*
 
 Maximum Time Limit: 3 hours
 
@@ -17,12 +17,12 @@ For this task, below are the datasets you have to use:
 You can use any third-party open-source library you want, also additional feature or enhancement will be acknowledged.
 
 The primary view should have two sections:
-1 Bubble Chart
-1 Matches Table
+1. Bubble Chart
+2. Matches Table
 
 ### 1. Bubble Chart
 
-*example:* [https://www.chartjs.org/docs/latest/charts/bubble.html](https://www.chartjs.org/docs/latest/charts/bubble.html)
+*example: [https://www.chartjs.org/docs/latest/charts/bubble.html](https://www.chartjs.org/docs/latest/charts/bubble.html)*
 
 * Each team should have exactly one bubble.
 * Each bubble should have different color and either its legend for the team name or team code inside the bubble.
